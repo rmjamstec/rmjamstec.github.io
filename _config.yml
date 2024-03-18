@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Test Site"
+title                    : "Test Site for Xiao Jie Mei"
 title_separator          : "-"
 subtitle                 : "just for test" # site tagline that appears below site title in masthead
 name                     : "Test aaa"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Yue Yue"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **crazy** person."
+  bio              : "I am an **gym** person."
   location         : "San Diago"
   email            :
   links:
